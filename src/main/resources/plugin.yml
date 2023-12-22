@@ -1,0 +1,4 @@
+name: server_admin
+version: '${version}'
+main: org.rurulala.server_admin.Server_admin
+api-version: '1.20'
